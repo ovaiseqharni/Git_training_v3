@@ -1,3 +1,5 @@
 this is simple file 1
 
 git reset commit 1
+
+revert 1
