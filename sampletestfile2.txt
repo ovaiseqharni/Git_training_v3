@@ -1,1 +1,3 @@
 this is simple file 2
+
+Git reset commit 2
