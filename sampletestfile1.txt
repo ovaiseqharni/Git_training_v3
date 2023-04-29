@@ -1,3 +1,10 @@
 this is simple file 1
 
+<<<<<<< HEAD
 200g~E+ hours of best-in-class content developed by leading faculty & industry leaders in the form of videos, case studies & projects
+=======
+git reset commit 1
+
+revert 1
+this is lecture
+>>>>>>> main

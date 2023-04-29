@@ -1,1 +1,6 @@
 this is simple file 2
+
+Git reset commit 2
+
+revert 2
+this is lecture 222222222
